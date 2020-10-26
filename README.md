@@ -1,5 +1,7 @@
 *** 193541T ***
 
+> ** Completion Time: 3 - 4 days **
+
 A1 features implemented:
 - Skydome (replacing sky plane)
 - Multi-texturing
